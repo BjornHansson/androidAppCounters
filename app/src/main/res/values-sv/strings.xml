@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Räkna Markörer</string>
+    <string name="button_build_number">Bygg talet</string>
+    <string name="headline_build_number">Bygg talet</string>
+    <string name="button_what_is_number">Skriv talet</string>
+    <string name="headline_what_is_number">Vad blir talet?</string>
+    <string name="match">Det matchar!</string>
+    <string name="no_match">Det matchar tyvärr inte</string>
+    <string name="removed_counter">Tog bort</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="high_nr">100</string>
+    <string name="medium_nr">10</string>
+    <string name="low_nr">1</string>
+</resources>
